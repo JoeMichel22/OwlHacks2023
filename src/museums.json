@@ -1,0 +1,13 @@
+[
+    {"name": "Rodin Museum", "address": "2151 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$7-10"}
+    {"name": "Philadelphia Museum of Art", "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$14-30"}
+    {"name": "Mütter Museum", "address": "19 S. 22nd St, Philadelphia, PA", "type": "Medical", "price":"$13-18"}
+    {"name":"The Franklin Insititue", "address": "222 North 20th St, Philadelphia, PA", "type": "Science", "price": "$21-25"}
+    {"name":"Penn Museum", "address": "3260 South St, Philadelphia, PA", "type": "History", "price": "$13-18"}
+    {"name":"The Academy of Natural Sciences", "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Science", "price": "$14-22"}
+    {"name":"Shofuso Japanese Cultural Center", "address": "Lansdowne Dr &, Horticultural Dr, Philadelphia, PA", "type": "Cultural", "price": "$9-16"}
+    {"name":"Museum of Illusions Philadelphia", "address": "401 Market St, Philadelphia, PA", "type": "Entertainment", "price": "$20-25"}
+    {"name":"African American Museum", "address": "701 Arch St, Philadelphia, PA", "type": "Cultural", "price": "$10-14"}
+    {"name":"National Constitution Center", "address": "525 Arch St, Philadelphia, PA", "type": "History", "price": "$11-15"}
+    {"name":"Barnes Foundation", "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$5-30"}
+]

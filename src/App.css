@@ -1,0 +1,15 @@
+nav{
+    background-color: brown;
+    border-color: black;
+    border-width: 2px;
+    padding: 0.5%;
+}
+
+#contact{
+    padding-left: 2%;
+}
+
+#title{
+    padding-right: 35%;
+    padding-left: 35%;
+}

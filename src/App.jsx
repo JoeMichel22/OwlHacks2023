@@ -8,13 +8,14 @@ import { useState } from "react";
 
 function App() {
   const [museumType, setMuseumType] = useState("");
-  console.log(museumType);
 
   return (
     <section>
       <Nav />
-      <SelectFilter museums={data} setMuseumType={setMuseumType}/>
-      <section className="flex justify-center flex-wrap gap-4">
+      <section className="w-full flex justify-center items-center">
+        <SelectFilter museums={data} setMuseumType={setMuseumType} />
+      </section>
+      <section className="m-3 flex justify-center flex-wrap gap-4 scroll-m-0">
         {data
           .filter((museum) => museumType === museum.type || museumType === "")
           .map((museum, index) => (

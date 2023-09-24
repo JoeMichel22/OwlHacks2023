@@ -3,16 +3,21 @@ import { Select, SelectItem } from "@nextui-org/react";
 import PropTypes from "prop-types";
 
 const SelectFilter = ({ museums, setMuseumType }) => {
-  const museumTypes = museums.map((museum) => museum.type);
+  //create array of unique museum types and filter out the duplicates
+  const museumTypes = [...new Set(museums.map((museum) => museum.type)), ""];
+
+  //select filter event handler
   const handleChange = (e) => setMuseumType(e.target.value);
 
   return (
     <Select
+      className="max-w-md py-5"
       label="Type of Meseum"
-      placeholder="Select type of museum"
+      color={"primary"}
+      radius="md"
       onChange={handleChange}
     >
-      {[...new Set(museumTypes)].map((type) => (
+      {museumTypes.map((type) => (
         <SelectItem key={type} value={type}>
           {type}
         </SelectItem>

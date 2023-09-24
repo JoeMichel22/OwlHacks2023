@@ -1,39 +1,35 @@
 [
-    {"name": "Philadelphia Museum of Art", "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$14-30", "link": ""},
-    {"name": "Mütter Museum", "address": "19 S. 22nd St, Philadelphia, PA", "type": "Medical", "price":"$13-18", "link": ""},
-    {"name":"The Franklin Insititue", "address": "222 North 20th St, Philadelphia, PA", "type": "Science", "price": "$21-25", "link": ""},
-    {"name":"Penn Museum", "address": "3260 South St, Philadelphia, PA", "type": "History", "price": "$13-18", "link": ""},
-    {"name":"The Academy of Natural Sciences", "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Science", "price": "$14-22", "link": ""},
-    {"name":"Shofuso Japanese Cultural Center", "address": "Lansdowne Dr &, Horticultural Dr, Philadelphia, PA", "type": "Cultural", "price": "$9-16", "link": ""},
-    {"name":"Museum of Illusions Philadelphia", "address": "401 Market St, Philadelphia, PA", "type": "Entertainment", "price": "$20-25", "link": ""},
-    {"name":"African American Museum", "address": "701 Arch St, Philadelphia, PA", "type": "Cultural", "price": "$10-14", "link": ""},
-    {"name":"National Constitution Center", "address": "525 Arch St, Philadelphia, PA", "type": "History", "price": "$11-15", "link": "https://www."},
-    {"name":"Barnes Foundation", "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$5-30", "link": "https://www.barnesfoundation.org/"}, {
-    "name": "The Rosenbach", "address": "2008-2010 Delancey Pl, Philadelphia, PA", "type": "History", "price": "$5-10", "link": "https://rosenbach.org/"
+    {"name": "Philadelphia Museum of Art", "address": "2600 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$14-30", "link": "https://philamuseum.org/", "imageURL": "https://cdn.sanity.io/images/f23a1pgq/pma_production/7efb6a448a5688e5ddaba5e2e475ad35d5e7098e-4260x2851.jpg?rect=0,354,4260,2174&bg=f2f2f2&w=1450&h=740&q=80&fit=clip"},
+    {"name": "Mütter Museum", "address": "19 S. 22nd St, Philadelphia, PA", "type": "Medical", "price":"$13-18", "link": "", "imageURL": "https://muttermuseum.org/static/364374e4b28b0d65243a24acfac30acc/dac54/web_about_pageheader.jpg"},
+    {"name":"The Franklin Insititue", "address": "222 North 20th St, Philadelphia, PA", "type": "Science", "price": "$21-25", "link": "", "imageURL": "https://www.fi.edu/sites/default/files/2020-05/TFI-BG-ExteriorBuilding.jpg"},
+    {"name":"Penn Museum", "address": "3260 South St, Philadelphia, PA", "type": "History", "price": "$13-18", "link": "https://muttermuseum.org/", "imageURL": "https://news.artnet.com/app/news-upload/2020/07/Warden-Garden-Summer-2019-Photo-by-Raffi-Berberian.jpg"},
+    {"name":"The Academy of Natural Sciences", "address": "1900 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Science", "price": "$14-22", "link": "https://ansp.org/", "imageURL": "https://ansp.org/~/media/Images/ans/visit/plan/ANS%20Exterior-636.ashx?la=en"},
+    {"name":"Shofuso Japanese Cultural Center", "address": "Lansdowne Dr &, Horticultural Dr, Philadelphia, PA", "type": "Cultural", "price": "$9-16", "link": "https://japanphilly.org/shofuso/", "imageURL": "https://www.visitphilly.com/wp-content/uploads/2017/12/ShofusoJapaneseHouseAndGarden-ShofusoJapaneseHouseAndGarden-1200VP.jpg"},
+    {"name":"Museum of Illusions Philadelphia", "address": "401 Market St, Philadelphia, PA", "type": "Entertainment", "price": "$20-25", "link": "https://moiphilly.com/", "imageURL": "https://moiphilly.com/wp-content/uploads/2023/04/Open-graf-Philadelphia.jpg"},
+    {"name":"African American Museum", "address": "701 Arch St, Philadelphia, PA", "type": "Cultural", "price": "$10-14", "link": "https://www.aampmuseum.org/", "imageURL": "https://upload.wikimedia.org/wikipedia/commons/b/b9/African_American_Museum_in_Philadelphia.jpg"},
+    {"name":"National Constitution Center", "address": "525 Arch St, Philadelphia, PA", "type": "History", "price": "$11-15", "link": "https://constitutioncenter.org/", "imageURL": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/91/02/bb/front-of-the-national.jpg?w=1200&h=-1&s=1"},
+    {"name":"Barnes Foundation", "address": "2025 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$5-30", "link": "https://www.barnesfoundation.org/", "imageURL": "https://images.squarespace-cdn.com/content/v1/5570599be4b0706eddf6c1c0/1484317853650-035QM12X5BV76VDTW0CE/0820_05.png"}, {
+    "name": "The Rosenbach", "address": "2008-2010 Delancey Pl, Philadelphia, PA", "type": "History", "price": "$5-10", "link": "https://rosenbach.org/", "imageURL": "https://rosenbach.org/wp-content/uploads/2019/12/10022019_Rosenbach_002-cropped-and-compressed-800x450.jpg"
     }, {
-    "name": "The Fabric Workshop and Museum", "address": "1214 Arch St, Philadelphia, PA", "type": "Art", "price": "$3-5", "link": "https://fabricworkshopandmuseum.org/"
+    "name": "The Fabric Workshop and Museum", "address": "1214 Arch St, Philadelphia, PA", "type": "Art", "price": "$3-5", "link": "https://fabricworkshopandmuseum.org/", "imageURL": "https://fabricworkshopandmuseum.org/wp-content/uploads/2019/08/FWM_window-with-habitus_2567-e1576087884499.jpg"
     }, {
-    "name": "The Wagner Free Institute of Science", "address": "1700 W Montgomery Ave, Philadelphia, PA", "type": "Science", "price": "Free", "link": "https://wagnerfreeinstitute.org/"
+    "name": "The Wagner Free Institute of Science", "address": "1700 W Montgomery Ave, Philadelphia, PA", "type": "Science", "price": "Free", "link": "https://wagnerfreeinstitute.org/", "imageURL": "https://storage.googleapis.com/clio-images/large_29723.68401.jpg"
     }, {
-    "name": "The Rodin Museum", "address": "2151 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$7-10", "link": "https://www.rodinmuseum.org/"
+    "name": "The Rodin Museum", "address": "2151 Benjamin Franklin Pkwy, Philadelphia, PA", "type": "Art", "price": "$7-10", "link": "https://www.rodinmuseum.org/", "imageURL": "https://upload.wikimedia.org/wikipedia/commons/3/30/Philly042107-009-RodinMuseum.jpg"
     }, {
-    "name": "The Philadelphia History Museum", "address": "15 S 7th St, Philadelphia, PA", "type": "History", "price": "$5-10", "link": "https://www.philadelphiahistory.org/"
+    "name": "The Philadelphia History Museum", "address": "15 S 7th St, Philadelphia, PA", "type": "History", "price": "$5-10", "link": "https://www.philadelphiahistory.org/", "imageURL": "https://hiddencityphila.org/wp-content/uploads/2018/07/PHM-body.jpg"
     }, {
-    "name": "The Museum of the American Revolution", "address": "101 S 3rd St, Philadelphia, PA", "type": "History", "price": "$13-19", "link": "https://www.amrevmuseum.org/"
+    "name": "The Museum of the American Revolution", "address": "101 S 3rd St, Philadelphia, PA", "type": "History", "price": "$13-19", "link": "https://www.amrevmuseum.org/", "imageURL": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Museum_of_the_American_Revolution.jpg"
     }, {
-    "name": "The National Liberty Museum", "address": "321 Chestnut St, Philadelphia, PA", "type": "History", "price": "$7-12", "link": "https://www.libertymuseum.org/"
+    "name": "The National Liberty Museum", "address": "321 Chestnut St, Philadelphia, PA", "type": "History", "price": "$7-12", "link": "https://www.libertymuseum.org/", "imageURL": "https://c8.alamy.com/comp/2A123ME/national-liberty-museum-view-of-the-exterior-of-national-liberty-museum-on-chestnut-street-in-central-philadelphia-usa-2A123ME.jpg"
     }, {
-    "name": "The Museum of the American Jewish History", "address": "101 S Independence Mall E, Philadelphia, PA", "type": "History", "price": "$5-12", "link": "https://www.nmajh.org/"
+    "name": "The Museum of the American Jewish History", "address": "101 S Independence Mall E, Philadelphia, PA", "type": "History", "price": "$5-12", "link": "https://www.nmajh.org/", "imageURL": "https://www.visitphilly.com/wp-content/uploads/2017/12/weitzman-national-museum-american-jewish-history-Barry-Halkin-2200x1237px.jpg"
     }, {
-    "name": "The Independence Seaport Museum", "address": "211 S Christopher Columbus Blvd, Philadelphia, PA", "type": "History", "price": "$10-18", "link": "https://www.phillyseaport.org/"
+    "name": "The Independence Seaport Museum", "address": "211 S Christopher Columbus Blvd, Philadelphia, PA", "type": "History", "price": "$10-18", "link": "https://www.phillyseaport.org/", "imageURL": "https://www.visitphilly.com/wp-content/uploads/2018/02/Independence-Seaport-Museum-exterior-M.Fischetti-VP-2200x1237.jpg"
     }, {
-    "name": "The National Museum of American Jewish History", "address": "101 S Independence Mall E, Philadelphia, PA", "type": "History", "price": "$5-12", "link": "https://www.nmajh.org/"
+    "name": "The Fireman's Hall Museum", "address": "147 N 2nd St, Philadelphia, PA", "type": "History", "price": "$5-8", "link": "https://www.firemanshallmuseum.org/", "imageURL": "https://www.theconstitutional.com/sites/drupal.theconstitutional.com/files/Blog/Photo%20May%2017%2C%203%2044%2024%20PM.jpg"
     }, {
-    "name": "The African American Museum in Philadelphia", "address": "701 Arch St, Philadelphia, PA", "type": "History", "price": "$10-14", "link": "https://www.aampmuseum.org/"
-    }, {
-    "name": "The Fireman's Hall Museum", "address": "147 N 2nd St, Philadelphia, PA", "type": "History", "price": "$5-8", "link": "https://www.firemanshallmuseum.org/"
-    }, {
-    "name": "The Chemical Heritage Foundation", "address": "315 Chestnut St, Philadelphia, PA", "type": "History", "price": "$5-8", "link": "https://www.chemheritage.org/"
+    "name": "The Chemical Heritage Foundation", "address": "315 Chestnut St, Philadelphia, PA", "type": "History", "price": "$5-8", "link": "https://www.chemheritage.org/", "imageURL": "https://c8.alamy.com/zooms/9/b54f3c37bfc642ca95686327d17a2b21/gedxbk.jpg"
     }
    
 ]

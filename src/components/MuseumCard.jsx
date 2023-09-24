@@ -19,7 +19,7 @@ const MuseumCard = ({ museum }) => {
       <Divider />
       <CardBody>
         <address>{address}</address>
-        <h5>{type}</h5>
+        <h5>{type} Museum</h5>
         <p>{price}</p>
       </CardBody>
       <Divider />

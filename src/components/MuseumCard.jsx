@@ -12,7 +12,7 @@ import PropTypes from "prop-types";
 const MuseumCard = ({ museum }) => {
   const { name, address, type, price, link } = museum;
   return (
-    <Card className="max-w-[400px]">
+    <Card className="max-w-[400px]" isBlurred>
       <CardHeader>
         <h3 className="font-bold">{name}</h3>
       </CardHeader>

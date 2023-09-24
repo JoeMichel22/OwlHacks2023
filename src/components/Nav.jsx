@@ -4,7 +4,7 @@ const Nav = () => {
       <nav className="w-full flex justify-center font-bold" id="navBar">
         <div className="w-[75px] h-[40px]"><img src="https://i.etsystatic.com/21635101/r/il/ae2965/2704626428/il_fullxfull.2704626428_7hu6.jpg" className="w-full h-auto"/></div>
         <span id="title"><a href=".">Philly Sceene</a></span>
-        <span id="contact"><a rel="noopener" target="_blank" href="#">Contact Us</a></span>
+        <span id="contact"><a rel="noopener" target="_blank">Contact Us</a></span>
       </nav>
       <div className="flex flex-col justify-center">
         <h2 className="text-center">Welcome to the Philly Sceene!</h2>

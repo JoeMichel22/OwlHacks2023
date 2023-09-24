@@ -1,9 +1,7 @@
 import {
   Card,
-  CardBody,
   CardFooter,
   CardHeader,
-  Divider,
   Image,
   Link,
 } from "@nextui-org/react";

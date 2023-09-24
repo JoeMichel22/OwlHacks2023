@@ -3,6 +3,7 @@
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
 
+@import url('https://fonts.googleapis.com/css2?family=Oleo+Script:wght@400;700&family=Varela+Round&display=swap');
 
 #root {
   height: 100%;
@@ -23,6 +24,8 @@ body {
 
   scroll-behavior: smooth;
   scroll-margin: 2px;
+
+  font-family: 'Varela Round', sans-serif;
 }
 
 ::-webkit-scrollbar {

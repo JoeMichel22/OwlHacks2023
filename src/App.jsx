@@ -1,7 +1,7 @@
 import "./App.css";
 import "./index.css";
 
-import { MuseumCard, Nav, SelectFilter } from "./components";
+import { MuseumCard, Nav, SelectFilter, Footer } from "./components";
 
 import data from "./museums.json";
 import { useState } from "react";
@@ -22,6 +22,7 @@ function App() {
             <MuseumCard key={index} museum={museum} />
           ))}
       </section>
+      <Footer/>
     </section>
   );
 }
